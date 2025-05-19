@@ -2,6 +2,8 @@ langchain
 langchain[openai]
 langchain_community
 
+langgraph
+
 pinecone
 langchain_pinecone
 
